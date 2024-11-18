@@ -1,0 +1,2 @@
+# ignore large .pkl files
+random_forest_model_health.pkl
