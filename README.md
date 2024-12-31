@@ -14,5 +14,5 @@ Each project in this repository focuses on analyzing data, building predictive m
 - **Deep Learning Applications**
 - **Data Visualization**
 
-Contributing
+Contributing :
 If you'd like to contribute to any of the projects, feel free to fork the repository, create a branch, and submit a pull request with your changes.
